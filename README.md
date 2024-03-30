@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm conversant with html and CSS<br>🔭 I’m currently working on travel planner app<br>👯 I’m open to collaboration and learning new skills<br>🌱 I’m currently learning python, javascript and dart<br>💬 Ask me about my thoughts about AI<br>⚡ Fun fact:Did you know that the first computer virus was created in 1983 and was called the 'Elk Cloner'? It infected Apple II computers through floppy disks and displayed a playful poem rather than causing any harm. It was created by a high school student named Rich Skrenta as a practical joke.
+🚀I'm conversant with html and CSS<br>🔭 I’m currently working on travel planner app<br>👯 I’m open to collaboration and learning new skills<br>🌱 I’m currently learning python, javascript and dart<br>💬 Ask me about my thoughts about AI<br>⚡ Fun fact:Did you know that the first computer virus was created in 1983 and was called the 'Elk Cloner'? It infected Apple II computers through floppy disks and displayed a playful poem rather than causing any harm. It was created by a high school student named Rich Skrenta as a practical joke.
 
 
 ## 🌐 Socials:
